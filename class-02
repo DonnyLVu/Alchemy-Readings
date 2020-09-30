@@ -1,0 +1,27 @@
+From the Duckett HTML book:
+
+Chapter 2: “Text” (pp.40-61)
+Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
+From the Duckett JS book:
+
+Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
+Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)
+
+# HMTL 
+
+## Chap 2
+Text in HTML use elements to structure the page while those texts that want to emphisised in some way such as bold, italicised, bolded and so on are all avaliable but marking before and after the word that you wanted to be emphisised.
+
+## Chap 10
+
+Every HTML element has a box around it and CSS allows us to interact with those boxes. CSS goes from top to bottom on loading it so the one at the bottom aka the newest one has priority ofvery everythign else once its all loaded. CSS are usually in a seperate document being linked to HTML so that it can access with when its not on the same document.
+
+# JS
+
+## Chap 2
+
+Basic javascript statements should all end with ;, while comments are used so the programmer can take notes for future references. Data can be stored in variables, they basically act as short term memory as it goes away if you leave the page. So varaibles can be used for multiple code like algebra. Theres mutiple types of data tpe such as numeric data type, string data type, as well as boolean data types. There are 6 rules for naming variables. 
+
+## Chap 4
+
+Decisions and loops are used to work on either or codes, conditional statements to make decistions that the codes would take. you can compare 2 operators  using operators like ( ===, !==, ==, !=, <, >, <, <=, =>).
