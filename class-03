@@ -15,14 +15,14 @@ Lists as you would guessed it are lists with either ordered or unordered lists. 
 
 ## Chap 13
 
-Boxes are all around html, and css are used to change the size and arangement of those boxes. Easy things that can be changedd is height and width, you can use percents to style the boxes with whatever effects you want. Those boxes had borders, margin and padding which surrounds the content of the box.
+Boxes are all around html, and css are used to change the size and arrangement of those boxes. Easy things that can be changed is height and width, you can use percents to style the boxes with whatever effects you want. Those boxes had borders, margin and padding which surrounds the content of the box.
 
 # JavaScript
 
 ## Chap 2
 
-Review of the 2nd chapter in javascript book involbed the creation of arrays which goes from creation of it to values when its as if they are a numbered list, and how to access and change items in the array.
+Review of the 2nd chapter in javascript book involved the creation of arrays which goes from creation of it to values when its as if they are a numbered list, and how to access and change items in the array.
 
 ## Chap 4
 
-Decisions and loops from yesterdays reading log so add yesterdays with todays. Switch statement allows you to compare the value that you have agaisnt possible outcomes. All values can evaluate to either truthy or falsy. And lastly there is 3 types of loops, such as for, while, and do while.
+Decisions and loops from yesterday's reading log so add yesterdays with today's. Switch statement allows you to compare the value that you have against possible outcomes. All values can evaluate to either truthy or falsy. And lastly there is 3 types of loops, such as for, while, and do while.
