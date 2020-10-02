@@ -1,0 +1,25 @@
+From the Duckett JS book:
+
+Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
+Article: “6 Reasons for Pair Programming”
+
+
+# HTML
+
+## Chap 4
+
+Links are able to link other pages from that link, the href of that link will be displayed fully as the full url of the site. The top folder is called the root which encompass all the other folders in it. You could say root is the parent of everything else on your system. On your links you can specify where you want the link to open up and show the user using specific syntax.
+
+## Chap 15
+
+Layout of css should be like boxes. Inline boxes can go between surrounding texts and of that sorts while block level boxes create a new line instead. There's lots of ways to do layout with lots of code and syntax that changes the way it looks. Screen sizes and resolution also changes the way that it'll show up on screen such as mobile devices and different sized monitors. You can import multiple stylesheets and using links to bring it into the html. The pages can change height wise and width wise. Designers keep pages between 960 and 1000 pixels wide and shows what the site is about within the top 600 px.
+
+# JAVASCRIPT
+
+## Chap 3
+
+Functions are a major part of javascript. You call functions in which would make the code the functions had run. Some functions need information to run the task given to it, those functions uses those parameters that you gave the function to use selected information given and produced in the code.
+
+## Article 6 Reasons for pair programming
+
+Pair programming helps to have greater efficiency because it's easier to catch the mistakes as you write the code. So even though it's slightly slower as well the positive from that is a higher end goal of being better quality. It also helps you be on track more often as collaborating makes you not able to procrastinate on writing the code. Meanwhile you also learn more about coding as well because no one codes exactly the same so something is always new either on how it's written to how it works. It also makes you think of code differently as it's different on how you just write it up yourself vs having to talk to someone about it so they get what you are trying to explain.
