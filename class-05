@@ -1,0 +1,16 @@
+# HTML DAY
+Chapter 5: “Images” (pp.94-125)
+Chapter 11: “Color” (pp.246-263)
+Chapter 12: “Text” (pp.264-299)
+
+## Chap 5
+
+Images are an important aspect of your webpage as it sets the mood and tone of the webpage as a whole a lot faster than how texts would be, you can set those images with using the img element with the special things inside of it such as src, alt, title as well as determining the height and width of the picture as well. Also measure your images in pixels please.
+
+## Chap 11
+
+Colors are also an important aspect for the visual parts of your page, it can grasp viewers attention if it has contrast. You can import colors into webpage by using either RGB values, Hex codes, and the name of the color as well. Terms of colors that you should know is contrast and opacity, contrast so that you can see the texts in the foreground and background, and opacity to be able to see behind color.
+
+# Chap 12
+
+Text in general has its own terminology with things such as serif, sans serif, monospace etc. You can choose different types of fonts by using font family or font face. Make sure the font that you end up using for your site are installed in the viewers device already as if it doesn't it'll end up being its normal font instead of the fancy good looking one you choose. You can also use drop shadow on your texts which make it look like those texts has shadows and depth when it really doesn't.
