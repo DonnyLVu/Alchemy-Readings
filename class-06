@@ -1,0 +1,14 @@
+
+# JAVASCRIPT
+
+## Chap 3
+
+Objects group together with variables are called properties. A method is when a function is part of the object. A good little note on objects.
+
+## Chap 5
+
+Dom is the model that the web page takes its structure from. It also has 4 main types of nodes, The document node, element nodes, Attribute nodes, text nodes as well. When working with the Dom tree, you have multiple steps, step 1, accessing the element. Step 2 work with the elements. Quite simple, just kidding each step has lots of things that go into it. Must keep this sections on hand for future notice.
+
+## Article
+
+Its good if you have an enthusiasm for coding but it's best to plan out your problem at hand beforehand then code because then you wouldn't have to redo some stuff after finishing older stuff and it breaking from newer code. Break them down into smaller chunks so 1, you'll feel better and 2 you can know you are progressing in the correct way.
