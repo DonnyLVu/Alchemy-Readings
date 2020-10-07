@@ -1,0 +1,28 @@
+Read
+Domain Modeling
+From the Duckett HTML book:
+
+Chapter 6: “Tables” (pp.126-145)
+From the Duckett JS Book:
+
+Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
+
+
+
+
+
+# Domain Modeling
+
+Domain modeling is the process of creating code for specific problems. Object oriented programing broken up into fundamentals are 1, use new Keyword which creates an object of that. 2, This begins the usage of properties.3, it stores the value for later usage. Use it when you are clearly defined the problem at hand and making one would show it.
+
+# HTML
+
+## Chap 6
+
+Tables shows information in a grid like fashion for us to see clearer. Every cell inside the table is called table cell.Table is used to create the table, tr is used to show that the table begins there, td are the individual cells of it, th are the table headings. Use spanning columns and or rows for the lab we are doing. Split those tables for more organizations.
+
+# JAVASCRIPT
+
+## Chap 3
+
+Functions have keywords inside them that programmers can use to do a specific script with. One of those is new which is explained above in domain modeling. This is also in javascript and is where you'll be using it. object models are groups of objects together to create something bigger from that to be used in something. Global object can be used anywhere within the script at anytime.
