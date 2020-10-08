@@ -1,0 +1,4 @@
+Reading
+“The Past, Present, and Future of Local Storage for Web Applications”
+
+In internet explorer, userData allowed the website to store up to 64kb of data per domain which was revolutionary compared to cookies having less than 4. in 2007 Google launched Gears which with user permission allows unlimited data storage per domain in SQL database tables. HTML 5 storage is local storage. Its data thats on your own device an is not from a third party. You store those datas in key/value pairs that are named for access later on. Using setItem the value that you put in would override whatever previous value was there before. Using the getItem function without a key value thing would return the value as null.
