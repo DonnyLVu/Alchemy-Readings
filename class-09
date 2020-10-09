@@ -7,3 +7,20 @@ Chapter 14: “Lists, Tables & Forms” (pp.330-357)
 From the Duckett JS book:
 
 Chapter 6: “Events” (pp.243-292)
+
+
+# HTML
+
+## Chap 7
+
+Forms as you can guess it, has many forms that it can take. They could add texts, make choices, and stuff that submits stuff. THey include stuff like text boxes, radio buttons, checkboxes, submit buttons, upload buttons, and even image buttons. They are very useful. the input attribute tells what the input will do, while you putting the type= will change it to be whatever type you want.
+
+## Chap 14
+
+Lists come in different types of styles, such as using bullet points for the points. Using images as those points. IF want to change the type of list of ordered and unordered lists you would have to use css for it. Table cssing is also a thing but unlike on lists tables are more easily changed as in its more of the normal everyday css that affects it. Texts also act like that as well.
+
+# JAVASCRIPT
+
+## Chap 6
+
+Events in javascript is a common and useful thing. There are alot of events that happen even if you are just browsing the web such as recognizing when you click, when to refresh, when you press a key, and even move your mouse. To use those events you have to select the element that you are trying to have interacted with. Second determine what the would trigger the code to run and lastly what the code would do when the efvent that triggers it happens. Events usually follow basic setup of the element, on event, and then what the function name would be. Flow seems to be a interesting thing, it stood out because it was in the black background which means it caught my eyes more right off the bat.
