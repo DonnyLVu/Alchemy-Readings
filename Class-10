@@ -1,0 +1,15 @@
+HTML/CSS book, Ch. 15, “Layout” (again; repeat of Class 4 reading)
+
+JavaScript book, Ch. 10, “Error Handling & Debugging”
+
+# HTML
+
+## Chap 15
+
+Layout for like the 3rd time from reading this chapter just shows how much layout is apart of html and CSS. Keep in mind html are boxes that get effected by css into layers and shapes that you'll want. There's positioning on elements where it could be normal flow which means the elements go onto the next row on a new line. Relative positioning moves the element up down left right of where the targeted element is. There are 3 more positioning type stuff as well. Screen sizes also changes what we see as it changes what website space is available to see to the user.
+
+# JAVASCRIPT
+
+## Chap 10
+
+Error handling is going to be a common experience as we continue with coding. Keep in mind the code runs from top to bottom so its relatively easy to debug with lots and lots of console. Logs if you are patient enough. It follows the code and once it finishes goes onto the next. There's a lot of errors with each names so you can see and based on how things are going for me. Ill be seeing them a lot. Debugger seems to be a very useful thing for code breaking. This at the current moment seems fun, till I have to do this a lot then going to be dreadful.
