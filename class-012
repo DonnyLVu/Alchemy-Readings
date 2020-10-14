@@ -1,0 +1,25 @@
+Read this article on the Chart.js API.
+
+Chart.js docs: You’ll be needing these!
+
+Read the following articles on the Canvas API.
+
+Basic usage
+Drawing shapes with canvas
+Applying styles and colors
+Drawing text
+
+# Article 1
+
+Article was made in atleast 2013 or older as comments are going from those times,It can really make lots of different style of charts and graphs which looks better than just texts.
+
+# Article 2
+Canvas does not have src or alt in it which differs from img tags. It does however have dimensions but even if you didn't specify it it has a built in base value just in case you didn't. It can have an alternate content in its place if the browser does not support the image video or whatnot that you wanted there in the first place. A closing canvas tag is a must have for this to work.# Article 3Shapes are a useful thing that canvas can be used for. You can even use it to "draw".
+
+# Article 4
+
+Lots and I mean lots of different ways to make colors, patterns, and styles. It looks to me like css on another level in a way.
+
+# Article 5
+
+You can make your individual texts look fancy! By either filling it, styling it, and or changing stokes on it.
