@@ -1,0 +1,27 @@
+Applying Atomic Design
+Part 1 (Links to an external site.)
+Part 2 (Links to an external site.)
+More examples (Links to an external site.)
+Step 1 only of Thinking in React (Links to an external site.)
+UI Components by Design (Links to an external site.) (don't worry about code examples, the process and ideas are what is important)
+Callbacks
+
+What are JavaScript Callbacks? (Links to an external site.)
+JavaScript Callback Functions (Links to an external site.)
+First class functions (Links to an external site.)
+MDN Callback function (Links to an external site.)
+Review: Classes
+
+JavaScript classes (Links to an external site.)
+Intro to Object-oriented programming in JavaScript (Links to an external site.)
+Review: this
+
+Intro (Links to an external site.). Read up to, but not including, Internals: Reference type section
+
+
+Atomic Design; BREAK THINGS INTO SMALLER THINGS.
+It's easier to work on with clear steps you create. It'll help out in long run.
+
+REACT: Keep things modular and simple. Simple is best especially when it works.
+
+CallBack; It went over the topics that we went though today in lecture. I've accidentally learned some of it when i had to search stuff up for the octogotchi game.
