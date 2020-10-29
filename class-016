@@ -1,0 +1,13 @@
+MDN : The reading was short and just shows what methods are available to use it in. Plus this is probably going to be used tomorrow.
+ToString: It returns a string that can be used anywhere as it has no parameters.
+Built in: Location is something that we used before to change the website page to another.
+Hash: Hashchange might be useful to probably load stuff on going to site? Or something changing?
+
+RegExr: It's going to be something to check as i don't yet fully comprehend it yet.
+Reg Tutorial: Well that clears things up a tad bit but that wasn't much to begin with.
+Reg101: seems like it is used for testing code that you put in?
+
+Callbacks are something that we have at least experience with unlike promises. Promises sees useful if the thing it's waiting for i like one of the only things that they can do.
+JavaScript being not asynchronous makes sense as it waits till the above code is done or waits to get called on in order. 
+Videos were interesting but something to watch again to make sure I would understand it.
+Thankfully fetch is something that we have to do in the lab, as well as something that we are going to go over in lectures
