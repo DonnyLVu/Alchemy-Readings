@@ -1,4 +1,34 @@
-## Quantity Always Trumps Quality ##
-* Be commited to learning.*
-* Keep trying new things and improving on it.*
-* You can't improve something unless there's something that needs improving already there.*
+# Quantity Always Trumps Quality 
+
+[Source](https://blog.codinghorror.com/quantity-always-trumps-quality/)
+
+Be commited to learning.
+Keep trying new things and improving on it.
+You can't improve something unless there's something that needs improving already there.
+No such thing as prefection so there is always someone wrong and right.
+
+# Clean Code Chapter 1
+
+[Source](http://ptgmedia.pearsoncmg.com/images/9780132350884/samplepages/9780132350884.pdf)
+
+Creating clean code even if slower is faster in long run.
+Maintenance will love you if you do.
+You are able to build on it with much less mess that youll have to deal with.
+Code written should be able to be easily maintained.
+
+# Red, Green, Refactor
+
+[Source](https://www.codecademy.com/articles/tdd-red-green-refactor)
+
+A three way thought process for TDD.
+Red is where the test will fail because the expectation for the test is the final result that you want the code to do.
+Green is when the test passes, so then you refactor it out to optimize and clean it up, which most likely would lead it fail once again.
+
+# The Cycles of TDD
+
+[Source](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
+
+The rules of TDD is:
+1. Write a failing test from the get go.
+2. Write tests to acutally run and not fail on its own.
+3. Write code that passes the test and make it run smoother.
