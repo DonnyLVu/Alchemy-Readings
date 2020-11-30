@@ -1,0 +1,5 @@
+My feelings on destructuring is that its just a weirder way to refactor stuff.
+
+On spread its funny to know that "When using spread syntax for function calls, be aware of the possibility of exceeding the JavaScript engine's argument length limit." is a thing that could happen.
+
+Rest looks like spread but does the opposite of what spread does. Takes all and makes into one array.
