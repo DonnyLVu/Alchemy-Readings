@@ -1,0 +1,73 @@
+# Code Challenge 01 - JS fundamentals
+
+### Objects
+
+1. Basics
+
+- You can shorthand properties that are the same  and can be used simplified.
+
+2. Computed Properties
+
+- You have to put [] around an computed expression.
+
+### Classes 
+
+1. Creation
+
+- how to create classes, use constructors as well as to be able to use methods within the classes body.
+
+2. Statics
+
+- Static methods start by having static before the name, it cannot be called on by objects created by those objects. 
+
+3. Extends
+
+- Classes can inherit properties from other classes and become their child. Which then is able to acess stuff from its parents.
+
+### Destructuring
+
+1. Arrays
+
+- Arrays are there to allow us to create shorter optimized code which things like brackets.
+
+2. Strings
+
+- Same things are applied to strings as well.
+
+3. Objects
+
+- Seems just a more harder to do, but is simular to above destructurings. 
+
+4. Destructuring with Defaults
+
+- You can set a default value while destructuring so it always has some number there even when the array doesnt have anything.
+
+5. Destructuring Function Parameters
+
+- Destrucuring as a whole is quite confusing without a lecture about this.
+
+6. Destructuring with Alias
+
+- Destructuring with renaming or renamed properties.
+
+### Rest
+
+1. Rest as a Parameter
+
+- Groups up all the remaning arrs into a new array after others have been used.
+
+2. Rest while Destructuring
+
+- You can actually use Rest during destructuring which is neat. 
+
+### Spread
+
+1. Array Spread 
+
+- Spread is just like rest, but the opisite in which it spreads out the arrays instead of condensing it
+
+### Function Defaults
+
+1. Function Defaults
+
+- Giving default values on functions could possibly make your function not break if something would have been undefined.
