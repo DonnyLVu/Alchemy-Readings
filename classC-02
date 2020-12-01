@@ -1,0 +1,11 @@
+Liked the first link which shows just a few of the things that you can do.
+
+Subscribe to the second one even though I get so many of these emails.
+
+Use the TDD as where you expect it would become. Have it be the final end product that if it doesn't equal this for some reason you would know that it's broken. Test is pre planning and setting expectations for the code that you would have written later. Be slower (its fine), write cleaner code.
+
+RED is when the test doesn't work in the slightest.
+
+GREEN is the test does pass.
+
+REFACTOR is when you get test t pass already then you go and make it more optimizer and cleaner so that it can be maintained on later if necessary.
