@@ -1,0 +1,7 @@
+Clean Code
+
+Make it straight forward, easy to read, easy to see the purpose, and easy to maintain afterwards. In the words of someone here who is quoting something else "This is the way"
+
+Classes
+
+Classes are "special" functions that has two components inside it. One Of them is class expressions, it can be named and or unnamed and would still work as well. Class declaration is also one of them but has to be named or else everything breaks because of it. Lots of good stuff in these 2 links
