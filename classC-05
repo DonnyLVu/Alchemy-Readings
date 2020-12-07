@@ -1,0 +1,9 @@
+Fun little look inside a computer, something that ai had been forced to watch in class during high school.
+
+Inserting data for UQL by using INSERT and use RETURNING to get back rows.
+
+SELECT has 8 uses and they're all valuable to know, something that you'll be using quite a bit.
+
+UPDATE allows you to be able to modify your table.
+
+DELETE allows you to delete how many rows you want.
