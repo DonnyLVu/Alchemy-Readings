@@ -1,0 +1,8 @@
+Reading the JWT does seem to be interesting, plus useful to make sure the correct user has the set amount of things that they can access in the program or site.
+https://jwt.io/introduction/
+
+In the why use BCrypt why not be big brained and go against the grain and which password as password is too common and salting it is too eazy, why not just make the password this => pɹoʍssɐd who would guess that.
+https://danboterhoven.medium.com/why-you-should-use-bcrypt-to-hash-passwords-af330100b861
+
+A good best practice to follow in BCrypt is to annoy the hacker who needs to use lots of passwords in a short amount of time. Even just adding a second on each auth attempt makes them annoyed. So idea, why not have multiple passwords be used but in specific orders and if any of the passwords entered was wrong the entire thing gets reset and goes into a time penalty of like 3-5 seconds. Probably wont work but that's seems funny to me
+https://auth0.com/blog/hashing-in-action-understanding-bcrypt/
