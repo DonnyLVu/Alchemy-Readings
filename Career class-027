@@ -1,0 +1,13 @@
+I'm definitely excited (albeit nervous to go back to react) to work with the front end after so long. 
+
+setState is the good stuff on making react function good.
+
+Keys should have a unique string Id among its siblings.
+
+Lists should loop through with a map function
+
+components should be thought of as independent parts that can be reused anywhere.
+
+Snapshot testing seems like a very useful test method.
+
+React testing is something that basically makes you test stuff better.
