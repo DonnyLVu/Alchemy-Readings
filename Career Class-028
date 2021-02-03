@@ -1,0 +1,5 @@
+Architectural patterns are used for big big components while Design patterns are used for specific parts in a code base.
+
+Containers and presentations : containers are stateful components that contain your business login and presentations are stateless components that present your data.
+
+Functional vs Class components: use functional components for presentational component, else use class for everything else.
