@@ -1,0 +1,7 @@
+MVC which is model-view-controller has the model be the main component to the pattern, view is the visual representation of the information, and controller converts things into commands for the previous 2.
+
+Single page applications just like onions have layers. View, Application Services, Store and lastly Domain. Lots of juicy stuff that is probably overwhelming.
+
+React MVC, main takeaways, when trying to solve stuff to make it run smoother and stuff, you might create more problems in future that you didn't know would happen at the time. React is a mix of OOP and FP.
+
+Reconciliation, makes it so react doesn't render the entire application on every action but rather on specific keys that identify them
