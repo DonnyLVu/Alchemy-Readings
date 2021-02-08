@@ -1,0 +1,7 @@
+Hooks api: Can write state without classes. Top level only. Call from function component.
+
+State hooks: Less code for doing same thing as this.state. 
+
+Effect hooks: Can use side-effects for effects. Some effects might need a cleanup for returning a function. 
+
+Hooks api reference: useState does not automatically merge update objects. etc.
