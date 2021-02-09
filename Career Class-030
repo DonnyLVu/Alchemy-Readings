@@ -1,0 +1,5 @@
+Custom hooks can allow you to extract logic to be reusable functions.
+
+Don’t call Hooks inside loops, conditions, or nested functions. - A rule said by Reactjs. Use it on top
+
+There's custom hooks in npm packages???
