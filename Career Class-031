@@ -1,0 +1,1 @@
+Allows global like state for the app. So it can be used for data that needs to be used on many different components.
