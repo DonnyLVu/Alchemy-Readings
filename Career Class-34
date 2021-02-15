@@ -1,0 +1,11 @@
+Seems the first article refers to code inbetween to use Composition instead of Inheritance?
+
+useReducer is an alternative to useState, also introduced another thing called dispatch which kinda seem useful.
+
+Three principles:
+
+The global state of your application is stored in an object tree within a single store.
+The only way to change the state is to emit an action, an object describing what happened.
+To specify how the state tree is transformed by actions, you write pure reducers.
+
+Redux  seem like a nice thing to learn
