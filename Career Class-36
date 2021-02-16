@@ -1,0 +1,7 @@
+Mentos and coke for redux motivation which is they are great separately but together it's awful.
+
+Couple of nice review articles!
+
+The basic idea of redux: a single centralized place to contain the global state in your application, and specific patterns to follow when updating that state to make the code predictable.
+
+Last article pretty nice to see the workflow.
