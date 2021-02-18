@@ -1,0 +1,11 @@
+Redux middleware provides a third-party extension point between dispatching an action, and the moment it reaches the reducer.
+
+That's pretty much is express middleware which means we already had at least some experience with it already.
+
+OOOooooOoo Custom middleware sounds pretty useful if you know how its used and created.
+
+redux middleware is written in nested functions, specifically 3 nests.
+
+middleware can modify dispatch to accept things that are not plain action objects.
+
+^ pretty useful.
